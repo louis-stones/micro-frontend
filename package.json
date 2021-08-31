@@ -1,0 +1,14 @@
+{
+  "name": "react-micro-frontend",
+  "version": "1.0.0",
+  "description": "A POC of the Webpack Module Federation using React to deliver a micro frontend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx lerna run start --parallel"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "lerna": "4.0.0"
+  }
+}

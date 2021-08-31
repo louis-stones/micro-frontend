@@ -1,0 +1,4 @@
+{
+  "packages": ["components-app", "frontend-app"],
+  "version": "0.0.0"
+}
