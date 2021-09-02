@@ -1,4 +1,4 @@
-# React Module Federation POC
+# React Micro Frontend using Module Federation
 
 A POC of the Webpack Module Federation Case using React to deliver a micro-frontend.
 
